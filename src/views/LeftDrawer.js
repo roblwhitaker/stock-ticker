@@ -14,7 +14,7 @@ function LeftDrawer() {
             }}>
                 <Typography variant='h2'  
                 style={{marginBottom: '20px', fontWeight: '700', textAlign: 'center'}}>
-                    Stocks
+                    Stocksss
                 </Typography>
             </div> 
                 <LeftSearch/>
