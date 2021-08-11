@@ -1,0 +1,12 @@
+.App {
+  background-color: #f9f9f9;
+}
+
+html { font-family: 'Roboto', sans-serif; }
+
+.app__layout {
+  display: flex;
+  justify-content: space-between
+
+}
+

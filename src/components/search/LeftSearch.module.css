@@ -1,0 +1,37 @@
+.textFieldInactive fieldset {
+  border-width: 0px !important;
+    border-radius: 30px;
+    border-width: 0px;
+  }
+  .paperInactive {
+    border-radius: 30px !important;
+  }
+
+  .textFieldActive fieldset {
+    border-width: 0px !important;
+    border-bottom-color: blue;
+    border-radius: 30px ;
+    border-bottom-left-radius: 0px ;
+    border-bottom-right-radius: 0px;
+  }
+
+  .paperActive {
+    border-width: 0px !important;
+    border-radius: 30px!important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+
+.dontShow {
+    visibility: hidden !important;
+}
+
+.show {
+    visibility: visible;
+}
+
+.listClass {
+  position: absolute;
+  width: 268px !important;
+}
+  
